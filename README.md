@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/qin-yu"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
+<!--
+**qin-yu/qin-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 - 🔭 I’m currently working on image segmentation
 - 🌱 I’m currently learning computer vision
 - 👯 I’m looking to collaborate on GPGPU
@@ -12,9 +15,6 @@
 - 📫 How to reach me: star this repo and create an issue with title "I love u so much"
 - 😄 Pronouns: (I have no idea what should I put here)
 - ⚡ Fun fact: I'm an international civil servant
-
-<!--
-**qin-yu/qin-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
