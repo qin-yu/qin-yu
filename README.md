@@ -1,4 +1,3 @@
-### Hi there 👋
 <p align="center">
   <a href="https://github.com/qin-yu"><img src="https://img.shields.io/github/stars/qin-yu?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/qin-yu"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
