@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://github.com/qin-yu"><img src="https://img.shields.io/github/stars/qin-yu?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/qin-yu"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 <!--
+<a href="https://github.com/qin-yu"><img src="https://img.shields.io/github/stars/qin-yu?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub"></a>&nbsp;&nbsp;
 **qin-yu/qin-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on image segmentation
